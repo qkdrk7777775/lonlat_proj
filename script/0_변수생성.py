@@ -29,8 +29,8 @@ for year in [2016,2017,2019,2020,2021]:
     data_dir=f'{org_dir}/{year}'
     data_files = [i for i in os.listdir(data_dir) if i.endswith('csv')]
     print('year:',year)
-    if year==2021:
-        limit_time=pd.Timedelta('0 days 01:00:00')
+    #if year==2021:
+    #    limit_time=pd.Timedelta('0 days 01:00:00')
     ## 파일별로 변환
     for fn in data_files:
         print(f'{data_dir}/{fn}')
