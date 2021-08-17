@@ -1,0 +1,8 @@
+README.md
+setup.py
+lonlatProj.egg-info/PKG-INFO
+lonlatProj.egg-info/SOURCES.txt
+lonlatProj.egg-info/dependency_links.txt
+lonlatProj.egg-info/not-zip-safe
+lonlatProj.egg-info/requires.txt
+lonlatProj.egg-info/top_level.txt
