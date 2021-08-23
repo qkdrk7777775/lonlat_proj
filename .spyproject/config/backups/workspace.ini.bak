@@ -4,9 +4,9 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = empty-project-type
-recent_files = []
+recent_files = ['script\\1_QC.py', 'script\\0_변수생성.py', 'script\\ecmwf.py', 'lonlatProj\\lonlatProj\\utils.py', 'lonlatProj\\setup.py', 'lonlatProj\\lonlatProj\\__init__.py', 'preprocess\\1_data_generate_ALL_hycom1.py', 'preprocess\\1_data_generate-ALL_hycom2.py']
 
 [main]
 version = 0.2.0
-recent_files = []
+recent_files = ['C:\\Users\\cjcho\\.spyder-py3\\temp.py', 'C:\\Users\\cjcho\\AppData\\Local\\Temp\\kite_tutorial.py', 'script\\r2_기존결과생성.py']
 

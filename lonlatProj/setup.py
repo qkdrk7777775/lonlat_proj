@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
    name='lonlatProj',
-   version='0.0.0.14',
+   version='0.0.0.26',
    description="lonlat_pred_utils",
    url='https://github.com/qkdrk7777775',
    author='chang je Cho',
